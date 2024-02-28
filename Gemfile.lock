@@ -271,6 +271,7 @@ GEM
     globalid (1.2.1)
       activesupport (>= 6.1)
     google-protobuf (3.25.2)
+    google-protobuf (3.25.2-x86_64-darwin)
     hashdiff (1.1.0)
     hashie (5.0.0)
     highline (3.0.1)
@@ -437,7 +438,7 @@ GEM
       nio4r (~> 2.0)
     raabro (1.4.0)
     racc (1.7.3)
-    rack (3.0.8)
+    rack (3.0.9.1)
     rack-protection (4.0.0)
       base64 (>= 0.1.0)
       rack (>= 3.0.0, < 4)
@@ -779,7 +780,7 @@ DEPENDENCIES
   pry-stack_explorer (~> 0.6.1)
   public_suffix (~> 5.0.1)
   puma (~> 6.4.2)
-  rack (= 3.0.8)
+  rack (= 3.0.9.1)
   rack-attack!
   rack-utf8_sanitizer
   rails (= 7.1.2)
